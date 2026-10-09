@@ -1,0 +1,1 @@
+A URL Shortener Built in Express.js. For DB , I have used mongodb, And to create short id , I have used node.js inbuilt short id dependency, which assignes a 8 char long short id for all the URLs. I have also worked upon the analytics of the URL too.
